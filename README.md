@@ -1,8 +1,6 @@
 # LibraryManagement
-<hr>
 
 <h3> Static only</h3>
-
 <ul> 
   <li> add_book <b> ( Book Title, Author ) </b> </li>
      <ul style="list-style-type=circle"> 
@@ -20,15 +18,15 @@
      <ul style="list-style-type=circle"> 
        <li> Display all the books </li>
      </ul>
-<li> search_book <b> ( Books, title ) </b> </li>
+   <li> search_book <b> ( Books, title ) </b> </li>
      <ul style="list-style-type=circle"> 
        <li> Returns the specified book </li>
      </ul>
-<li> count_available_books <b> ( Books ) </b> </li>
+   <li> count_available_books <b> ( Books ) </b> </li>
      <ul style="list-style-type=circle"> 
        <li>  Returns a number of available books </li>
      </ul>
-<li> list_titles <b> ( Books ) </b> </li>
+   <li> list_titles <b> ( Books ) </b> </li>
      <ul style="list-style-type=circle"> 
        <li> Returns all the book title </li>
      </ul>
